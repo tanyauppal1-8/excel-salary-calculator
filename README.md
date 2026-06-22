@@ -77,11 +77,6 @@ This dashboard simplifies salary exploration by providing an interactive platfor
 
 <img width="853" height="347" alt="image" src="https://github.com/user-attachments/assets/8a2bb1de-e30d-4352-8eec-872e6dfdaf93" />
 
-
-```text
-images/salary_calculator_dashboard.png
-```
-
 ---
 
 ## Repository Structure
